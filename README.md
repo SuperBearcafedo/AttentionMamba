@@ -58,7 +58,7 @@ bash ./scripts/multivariate_forecasting/PEMS/Attention_Mamba_08.sh
 For more configurations, please look into 📄`./scripts/multivariate_forecasting/**Dataset**/**Attention_Mamba-{}-{}.sh**`.
 Attention Mamba is implemented via  ▶️`README_run.md`
 
-⚠**️Remark**: we give configuration samples rather than the fine-tuned configurations.
+⚠️ **️Remark**: we give configuration samples rather than the fine-tuned configurations.
 
 🌟The easiest way for users who want to make their own models, if you like, is to follow the same rules.
 
