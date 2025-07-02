@@ -60,11 +60,11 @@ Attention Mamba is implemented via  ▶️`README_run.md`
 
 ⚠️ **️Remark**: we give configuration samples rather than the fine-tuned configurations.
 
-🌟The easiest way for users who want to make their own models, if you like, is to follow the same rules.
+🌟 The easiest way for users who want to make their own models, if you like, is to follow the same rules.
 
 ## ✅ Results
 
-In Attention Mamba, all results will be stored in 📃 **result_long_term_forecast.txt** and the training processes will be stored in 📁 **train_records** directory.
+In Attention Mamba, all results will be stored in 📃 **result_long_term_forecast.txt**.
 
 🌟 Please develop analysis charts based on the results, and further customize or extend them according to users' specific needs. Herein, we reserve our own ones.
 
